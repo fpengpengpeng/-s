@@ -1,0 +1,7 @@
+{
+  "name": "虚拟植物实验室 - Pro",
+  "description": "面向园艺专业的沉浸式植物学互动课件。包含花药发育、传粉受精、植物分类演化及 AI 驱动的智能鉴定实验室。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
